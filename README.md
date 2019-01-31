@@ -1,2 +1,2 @@
 # es-shell
-shell for edX
+shell for Open edX
